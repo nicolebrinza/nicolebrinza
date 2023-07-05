@@ -22,7 +22,7 @@
     </p>
 <br>
   <h3 align="center">Code Stats</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ionelabrinza&" alt="ionelabrinza" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolebrinza&" alt="nicolebrinza" /></p>
 <br>
 
 <h3 align="center">Technical Skills</h3>
