@@ -32,6 +32,9 @@
       <img src="https://img.shields.io/badge/Terraform-008080?style=plastic&logo=Terraform&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/Docker-008080?style=plastic&logo=Docker&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/Ansible-008080?style=plastic&logo=Ansible&logoColor=white" height=25>
+       <img src="https://img.shields.io/badge/Prometheus-008080?style=plastic&logo=Prometheus&logoColor=white" height=25>
+       <img src="https://img.shields.io/badge/Grafana-008080?style=plastic&logo=grafana&logoColor=white" height=25>
+       <img src="https://img.shields.io/badge/AWS-008080?style=plastic&logo=AWS&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/Visual_Studio-008080?style=plastic&logo=visual%20studio&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/GIT-008080?style=plastic&logo=git&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/HTML5-008080?style=plastic&logo=html5&logoColor=white" height=25>
