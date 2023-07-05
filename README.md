@@ -27,18 +27,16 @@
 
 <h3 align="center">Technical Skills</h3>
     <p align="center">
+      <img src="https://img.shields.io/badge/Kubernetes-008080?style=plastic&logo=kubernetes&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/Jenkins-008080?style=plastic&logo=jenkins&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/Terraform-008080?style=plastic&logo=Terraform&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/Docker-008080?style=plastic&logo=Docker&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/Ansible-008080?style=plastic&logo=Ansible&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/Visual_Studio-008080?style=plastic&logo=visual%20studio&logoColor=white" height=25>
+      <img src="https://img.shields.io/badge/GIT-008080?style=plastic&logo=git&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/HTML5-008080?style=plastic&logo=html5&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/CSS3-008080?style=plastic&logo=css3&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/JavaScript-008080?style=plastic&logo=javascript&logoColor=F7DF1E" height=25>
-      <img src="https://img.shields.io/badge/Bootstrap-008080?style=plastic&logo=bootstrap&logoColor=white" height=25>
-      <img src="https://img.shields.io/badge/Node.js-008080?style=plastic&logo=nodedotjs&logoColor=white" height=25>
-      <img src="https://img.shields.io/badge/React-008080?style=plastic&logo=react&logoColor=61DAFB" height=25>
-      <img src="https://img.shields.io/badge/Express.js-008080?style=plastic&logo=express&logoColor=white" height=25>
-      <img src="https://img.shields.io/badge/MongoDB-008080?style=plastic&logo=mongodb&logoColor=white" height=25>
-      <img src="https://img.shields.io/badge/Figma-008080?style=plastic&logo=figma&logoColor=white" height=25>
-      <img src="https://img.shields.io/badge/Adobe-008080?style=plastic&logo=adobe&logoColor=white" height=25>
-      <img src="https://img.shields.io/badge/Visual_Studio-008080?style=plastic&logo=visual%20studio&logoColor=white" height=25>
-      <img src="https://img.shields.io/badge/GIT-008080?style=plastic&logo=git&logoColor=white" height=25>
       <img src="https://img.shields.io/badge/WordPress-008080?style=plastic&logo=Wordpress&logoColor=white" height=25>
     </p>
 
