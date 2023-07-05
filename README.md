@@ -18,9 +18,7 @@
  Abilities: Growth Mindset, Fast Learner, Teamwork, Positive attitude, Attention to detail, Problem-solving, Adaptability
   </p>
   <p align="center">
-- 🔭 I’m currently working on Fuchicorp project
-- 🌱 I’m currently learning Python
-- 💬 Ask me about DevOps
+🔭 I’m currently working on Fuchicorp project
     </p>
 <br>
   <h3 align="center">Code Stats</h3>
