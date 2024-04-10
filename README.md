@@ -17,9 +17,7 @@
   <p align="center">
  Abilities: Growth Mindset, Fast Learner, Teamwork, Positive attitude, Attention to detail, Problem-solving, Adaptability
   </p>
-  <p align="center">
-🔭 I’m currently working on Fuchicorp project
-    </p>
+
 <br>
   <h3 align="center">Code Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolebrinza&" alt="nicolebrinza" /></p>
