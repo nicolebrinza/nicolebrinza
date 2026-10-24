@@ -12,7 +12,7 @@
 
 <p align="center">
     <br>
-   Cloud/DevOps Engineer with multiple years experience in tech. Knowledge of infrastructure automation, code migration, containerization, configuration management, and system administration.
+   Cloud/DevOps Engineer with multiple years of experience in tech. Knowledge of infrastructure automation, code migration, containerization, configuration management, and system administration.
   </p>
   <p align="center">
  Abilities: Growth Mindset, Fast Learner, Teamwork, Positive attitude, Attention to detail, Problem-solving, Adaptability
